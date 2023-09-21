@@ -16,6 +16,7 @@ header{
 	color: #000066;
 }
 
+
 .imghome{
 	float: center;
 	width: 7%;
@@ -115,8 +116,15 @@ img{
 	font-family: 'rowdies', cursive;
 	border-bottom: 2px solid #51710a;	
 }
+.imgval{
+	border: 2px solid #51710a;
+	padding: 0px 0px 0px 0px;
+	width: 600px;
+	height: 200px;
+}
 
 footer{
+	float: bottom;
 	position: relative;
 	bottom: 0px;
 	width: 100%;
